@@ -1,4 +1,4 @@
-#Context API - Part 2
+# Context API - Part 2
 Learnt to use Context API using custom hook by building a simple Light Mode -> Dark Mode Toggler
 # React + Vite
 
