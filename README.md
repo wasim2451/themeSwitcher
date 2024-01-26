@@ -1,3 +1,5 @@
+#Context API - Part 2
+Learnt to use Context API using custom hook by building a simple Light Mode -> Dark Mode Toggler
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
